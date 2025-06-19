@@ -92,20 +92,16 @@ pip install PyPDF2
 python analizador_pdfs.py
 ```
 
-### 📦 **Ejecutar programa (Recomendado)**
+### 🔧 **📦 Instalación Ejecutable (Recomendado)**
 
 ```bash
-# Ejecutar programa:  AnalizadorPDFs.exe
-esta en la carpeta dist
+#  Crear ejecutable portable
+
+crear_ejecutable.bat
+
+El ejecutable estará en: dist/AnalizadorPDFs.exe
 
 ```
-### 📦 ¿Como se creó el ejecutable? 
-
-```bash
-# Crear ejecutable portable
-python build_exe.py
-```
-
 ---
 
 ## 📖 **Guía de Uso**
