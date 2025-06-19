@@ -98,10 +98,8 @@ python analizador_pdfs.py
 # Ejecutar programa:  AnalizadorPDFs.exe
 esta en la carpeta dist
 
-
-# El ejecutable estará en: AnalizadorPDFs_Portable/
 ```
-### 📦 **¿Como se creó el ejecutable? **
+### 📦 ¿Como se creó el ejecutable? 
 
 ```bash
 # Crear ejecutable portable
